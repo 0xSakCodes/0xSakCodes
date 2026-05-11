@@ -1,9 +1,9 @@
-👾 Initialising [brain]...<br>🍀 Starting [brain]...
+👾 Initializing [brain]...<br>🍀 Starting [brain]...
 
 ---
 
 ![](https://github-readme-stats.shion.dev/api?username=0xSakCodes&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&font_family=Consolas)<br/>
-![](https://streak-stats.demolab.com/?user=0xSakCodes&theme=material-palenight&hide_border=false)<br/>
+<!-- ![](https://streak-stats.demolab.com/?user=0xSakCodes&theme=material-palenight&hide_border=false)<br/> -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xSakCodes&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
